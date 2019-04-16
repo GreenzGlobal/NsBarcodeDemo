@@ -14,7 +14,6 @@
                 <FormattedString>
                     <Span text="Barcode format:    " fontWeight="Bold" />
                     <Span :text="barcodeFormat" backgroundColor="#efefef" />
-                    <span>TEST</span>
                 </FormattedString>
             </TextView>
 
