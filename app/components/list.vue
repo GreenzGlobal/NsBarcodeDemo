@@ -13,7 +13,7 @@
                 </FormattedString>
             </TextView>
 
-            <Label text="Developed by Nils Endre Greenz ---2222" class="footer"></Label>
+            <Label text="Developed by Nils Endre Greenz" class="footer"></Label>
 
         </StackLayout>
 
